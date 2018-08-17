@@ -1,3 +1,15 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:       FolderGamera # 折纸相机              # 标题 
+subtitle:   折纸相机是基于GPUImage实现的具有滤镜和美颜功能、支持短视频拍摄的相机APP #副标题
+date:       2018-08-q7              # 时间
+author:     LY                      # 作者
+header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+- 生活
+---
+
 > 本项目基于GPUImage实现
 # FolderGamera # 折纸相机
 [![Support](https://img.shields.io/badge/support-iOS%208%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)
